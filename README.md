@@ -1,5 +1,5 @@
 # DRIVE_Segmentation
->Prediction Result:
+>Prediction result:
 
 ![plan](result.png)
 
