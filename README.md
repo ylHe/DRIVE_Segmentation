@@ -1,4 +1,11 @@
 # DRIVE_Segmentation
+>Prediction Result:
+
+![plan](result.png)
+
+First Row: Ground truths (Ideal outputs we need)
+
+Second Row: Outputs from training 20 epochs
 
 ### Evolution Metric is Dice：
 
