@@ -3,9 +3,9 @@
 
 ![plan](result.png)
 
-First Row: Ground truths (Ideal outputs we need)
+First Row: Outputs from training 20 epochs
 
-Second Row: Outputs from training 20 epochs
+Second Row: Ground truths (Ideal outputs we need)
 
 ### Evolution Metric is Dice：
 
